@@ -1,6 +1,6 @@
 # SHASHI-KUMAR
 WEB DEVELOPMENT
-JAVA my love, toufgh to catch
+JAVA my love, tough to catch
 C++ /c ,vector in C++ is mystery
 DSA is easy ,but hard to recall
 Python -need to work on
